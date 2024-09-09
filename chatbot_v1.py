@@ -43,7 +43,7 @@ class TextLoader:
 chat_model = ChatGroq(
     model='llama3-8b-8192',
     temperature=0.2,
-    api_key='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'
+    api_key='YOUR_API_KEY'
 )
 # Set up function to load data
 
